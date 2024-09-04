@@ -1,0 +1,1 @@
+class Player (val name: String, val score: Int = 0, val diskType: Char)
