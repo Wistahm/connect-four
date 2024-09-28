@@ -5,3 +5,4 @@ A console-based Connect Four game written in Kotlin that allows players to strat
 
 ## Winning Conditions
 
+## Examples
